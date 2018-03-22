@@ -5,6 +5,10 @@ a.my-link:hover {
     color: #000000 !important;
 }
 
+.spacer {
+    height: 4rem;
+}
+
 .intro {
   height: 30rem;
   background-image: url('../images/design.jpg');
